@@ -84,7 +84,9 @@ This project is open-source under the **MIT License**.
 
 ## 🙋‍♂️ Created By
 
-**Your Name**  
+JAINIL KUKROLIA  
+gitHub:@joie17
+linkeddin:https://www.linkedin.com/in/kukrolia-jainil/
 Student @ Government Engineering College, Dahod  
 Tech Stack: ESP32 | IoT | C++ | Circuit Design
 
