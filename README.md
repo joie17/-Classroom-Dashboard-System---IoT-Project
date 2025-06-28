@@ -1,3 +1,5 @@
+![Banner](./github-banner.png)
+
 # 📟 Classroom Dashboard System - IoT Project
 
 This project is a **smart classroom dashboard system** using **ESP32**, **MAX7219 LED matrix**, and **RTC module** to display useful real-time information inside a classroom.
