@@ -1,4 +1,4 @@
-![Banner](./github-banner.png)
+![Banner](github-banner.png.png)
 
 # 📟 Classroom Dashboard System - IoT Project
 
